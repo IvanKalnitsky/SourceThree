@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         print("1")
         
         print("сделал изменения через браузер")
+        
+        print("сделал изменения через браузер 2")
+
     }
 
 
